@@ -15,7 +15,7 @@ const [{basket,user}, dispatch]= useStateValue();
 
                  <div>
 
-                     <h3>Is this your shitty email?, {user.email}</h3>
+                     <h3>Hello, {user?.email}</h3>
                      <h2 className="checkout__title">Your Shopping Basket</h2>
 
                       {basket.map(item=>(
