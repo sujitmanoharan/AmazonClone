@@ -31,8 +31,6 @@ function App() {
       })
       
       
-
-      //else fuction test comment
   } else{
     //the user is logged out 
 
