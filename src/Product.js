@@ -2,8 +2,10 @@ import React from 'react'
 import './Product.css';
 import {useStateValue} from './StateProvider';
 
-function Product({id, title, image, price, rating}) {
+// import { useSpring, animated } from 'react-spring';
 
+
+function Product({id, title, image, price, rating}) {
 
     const [{basket}, dispatch] = useStateValue();
 
@@ -28,8 +30,9 @@ function Product({id, title, image, price, rating}) {
 
     return (
         <div 
-        className="product">
+        className="product" >
 
+            
 
                  <div className="product__info">
 
