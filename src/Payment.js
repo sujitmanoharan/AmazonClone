@@ -161,4 +161,3 @@ function Payment() {
 }
 
 export default Payment
-//make sure to review this page because it is not quite well understood'
