@@ -1,0 +1,1 @@
+You fucking idiot get to work and stop slacking you cowardly bitch.
