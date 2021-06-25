@@ -8,3 +8,5 @@ Day 3 on not doing a single damn thing on this project, get to work lazy person.
 Update Day 4 still no work done
 
 Day  number 5 monseiur
+
+bullshit bullshit
