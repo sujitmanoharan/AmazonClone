@@ -9,4 +9,4 @@ Update Day 4 still no work done
 
 Day  number 5 monseiur
 
-bullshit bullshit
+Day 7 and forget day 6
