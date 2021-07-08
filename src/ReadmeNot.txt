@@ -30,3 +30,5 @@ Day 16 updated.
 
 Day 17  of amazon clone
 Day 18 of amazon lets gooo
+
+Day 19 lets go
