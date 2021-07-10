@@ -33,3 +33,5 @@ Day 18 of amazon lets gooo
 
 Day 19 lets go
  Day 20 and we are here
+
+ Day 21 here july 10 slept entire day , down.
